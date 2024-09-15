@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm SUNNY SURYAWANSHI</h1>
 <h3 align="center">A passionate MERN STACK DEVELOPER from India</h3>
-https://iconscout.com/lottie-animation/programmer-4375641
+https://cdn.dribbble.com/users/644659/screenshots/1920053/dri2.gif
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunny2728&label=Profile%20views&color=0e75b6&style=flat" alt="sunny2728" /> </p>
