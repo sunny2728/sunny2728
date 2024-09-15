@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm SUNNY SURYAWANSHI</h1>
 <h3 align="center">A passionate MERN STACK DEVELOPER from India</h3>
-![image](https://github.com/user-attachments/assets/e829f607-5f43-40d2-9723-becf1c3cc363)
+https://dribbble.com/shots/1920053-Animated-icon-2
 
 
 
