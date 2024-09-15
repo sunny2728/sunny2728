@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm SUNNY SURYAWANSHI</h1>
 <h3 align="center">A passionate MERN STACK DEVELOPER from India</h3>
-https://cdn.dribbble.com/users/644659/screenshots/1920053/dri2.gif
+![image](https://github.com/user-attachments/assets/e829f607-5f43-40d2-9723-becf1c3cc363)
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunny2728&label=Profile%20views&color=0e75b6&style=flat" alt="sunny2728" /> </p>
