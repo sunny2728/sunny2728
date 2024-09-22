@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SUNNY SURYAWANSHI</h1>
-<h3 align="center">A passionate MERN STACK DEVELOPER from India</h3>
+<h3 align="center">A Passionate MERN STACK DEVELOPER From India</h3>
 <img src="![image](https://github.com/user-attachments/assets/19607e17-2998-46ae-8f3c-21a90ef6fa86)
 ">
 
