@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm SUNNY SURYAWANSHI</h1>
 <h3 align="center">A passionate MERN STACK DEVELOPER from India</h3>
-<img align="right" width="400" alt="coding" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/421d4ed2f3d23c73d64d20963f61f422.gif">
+<img align="right" width="400" alt="coding" src="https://camo.githubusercontent.com/1d5e41101f436fa09fb460491cd74615b318099fdabd6785ca0e769dcbab639a/68747470733a2f2f7777772e766b72656174652e696e2f73746f726167652f73657276696365735f696d6167652f323031392d31302d30322d31372d35352d35342d356439346534616138303962332d7765622d646576656c6f706d656e742e676966">
 
 
 
