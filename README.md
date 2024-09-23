@@ -1,4 +1,4 @@
-![logo](https://media.licdn.com/dms/image/v2/D5616AQExcjGatJBrZA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1727123576317?e=1732752000&v=beta&t=lb64V9IHPxeA-J5hAV0HRl901cdmfKrKCZnoZg4_u8s)
+![logo](https://media.licdn.com/dms/image/v2/D5616AQFnvJQnSsOz1g/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1727123809084?e=1732752000&v=beta&t=GO4q_Maw7c-vAvRm2_Zt8qqdENkbIMUfHiAgC8WZre4)
 <h1 align="center">Hi 👋, I'm SUNNY SURYAWANSHI</h1>
 <h3 align="center">A passionate MERN STACK DEVELOPER from India</h3>
 <img align="right" width="300" alt="coding" src="https://camo.githubusercontent.com/540f715764409f67e7466f7634e2386854040542ac83e54cb2aa12f454235a35/68747470733a2f2f7777772e65326d736f6c7574696f6e732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f31302f706167652d62616e6e65722d696d672e706e67">
