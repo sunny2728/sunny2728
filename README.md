@@ -2,7 +2,9 @@
 <h1 align="center">Hi 👋, I'm SUNNY SURYAWANSHI</h1>
 <h3 align="center">A passionate MERN STACK DEVELOPER from India</h3>
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunny2728&label=Profile%20views&color=0e75b6&style=flat" alt="sunny2728" /> </p>
+<img align="right" width="300" alt="coding"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
