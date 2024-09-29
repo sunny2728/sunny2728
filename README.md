@@ -1,4 +1,4 @@
-![logo](![image](https://github.com/user-attachments/assets/6825e371-708b-491e-a941-795a57fc3320)
+![logo](https://media.licdn.com/dms/image/v2/D5616AQENhDLHQeoxCw/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1690198298793?e=2147483647&v=beta&t=UAAtsL7JJFhIv2hBQtXwTqGUdugo0k6Cp1-M1onaWIs)
 )
 <h1 align="center">Hi 👋, I'm SUNNY SURYAWANSHI</h1>
 <h3 align="center">A Passionate MERN STACK DEVELOPER From India</h3>
