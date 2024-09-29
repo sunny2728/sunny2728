@@ -1,4 +1,5 @@
-![logo](https://media.licdn.com/dms/image/v2/D5616AQFi30xM33VfZw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1727583740666?e=1733356800&v=beta&t=Kd_YnJV7E2UEJhTBewKxcy7VSo2Zz6xO6OLXPFQUV08)
+![logo](![image](https://github.com/user-attachments/assets/6825e371-708b-491e-a941-795a57fc3320)
+)
 <h1 align="center">Hi 👋, I'm SUNNY SURYAWANSHI</h1>
 <h3 align="center">A Passionate MERN STACK DEVELOPER From India</h3>
 <img align="right" width="300" alt="coding" src="https://camo.githubusercontent.com/540f715764409f67e7466f7634e2386854040542ac83e54cb2aa12f454235a35/68747470733a2f2f7777772e65326d736f6c7574696f6e732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f31302f706167652d62616e6e65722d696d672e706e67">
